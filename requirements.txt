@@ -16,7 +16,7 @@ pyadmin==0.0.1
 pycparser
 pyOpenSSL
 PySocks
-python-dateutil==2.8.2
+python-dateutil==1.5
 pytz
 requests==2.28.0
 soupsieve==2.3.2.post1
