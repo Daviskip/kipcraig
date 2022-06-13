@@ -1,0 +1,1 @@
+web: gunicorn kip_craigclone.wsgi
